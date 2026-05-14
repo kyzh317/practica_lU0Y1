@@ -1,1 +1,2 @@
 # Interfaz principal
+Botón de inicio agregado
